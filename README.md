@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amir Dehestani</h1>
 <h3 align="center">Web Design & Development</h3>
 
-- 👨‍💻 All of my projects are available at [https://amirdhs.github.io/](https://amirdhs.github.io/)
+- 👨‍💻 All of my projects are available at [https://amir-dehestani.pages.dev/)
 
 - 📫 How to reach me **amirmo800@gmail.com**
 
