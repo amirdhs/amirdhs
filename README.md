@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir Dehestani</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **Python**
-
 - 👨‍💻 All of my projects are available at [https://amir-dehestani.pages.dev/](https://amir-dehestani.pages.dev/)
 
 - 📫 How to reach me **amirmo800@gmail.com**
