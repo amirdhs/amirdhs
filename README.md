@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amir Dehestani</h1>
 <h3 align="center">A passionate Web developer</h3>
+## About Me
+- Software Engineer from Germany
+- Currently enrolled in the Backend Developer program at Masterschool
+- Preferred programming languages: Python
+- Passionate about web design and development
 
-- 👨‍💻 All of my projects are available at [https://amir-dehestani.pages.dev/](https://amir-dehestani.pages.dev/)
 
 - 📫 How to reach me **amirmo800@gmail.com**
-
 - 📄 Know about my experiences [https://amir-dehestani.pages.dev/](https://amir-dehestani.pages.dev/)
 
 <h3 align="left">Connect with me:</h3>
