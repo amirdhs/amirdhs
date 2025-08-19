@@ -6,7 +6,7 @@
 - Passionate about web design and development
 
 
-- 📫 How to reach me **amirmo800@gmail.com**
+- 📫 How to reach me **info@amirdhs.com**
 - 📄 Know about my experiences [https://amirdhs.com/](https://amirdhs.com/)
 
 <h3 align="left">Connect with me:</h3>
