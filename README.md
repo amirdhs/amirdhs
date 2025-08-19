@@ -7,7 +7,7 @@
 
 
 - 📫 How to reach me **amirmo800@gmail.com**
-- 📄 Know about my experiences [https://amir-dehestani.pages.dev/](https://amir-dehestani.pages.dev/)
+- 📄 Know about my experiences [https://amirdhs.com/](https://amirdhs.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
