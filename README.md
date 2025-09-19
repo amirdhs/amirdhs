@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir Dehestani</h1>
 
-- Back-end Developer from Germany
-- Currently enrolled in the Backend Developer program at Masterschool
-- Preferred programming languages: Python
-- Passionate about web design and development
+- Back-end Developer 
 
 
 - 📫 How to reach me **info@amirdhs.com**
