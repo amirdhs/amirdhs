@@ -3,8 +3,7 @@
 - Back-end Developer 
 
 
-- 📫 How to reach me **info@amirdhs.com**
-- 📄 Know about my experiences [https://amirdhs.com/](https://amirdhs.com/)
+- 📫 How to reach me **amirmo800@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
