@@ -67,5 +67,5 @@ My strengths:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirdhs&show_icons=true&theme=tokyonight" alt="Amir's GitHub Stats" />
+  [![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirdhs)](https://github.com/amirdhs/amirdhs)
 </p>
