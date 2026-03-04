@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:info@amirdhs.com">📧 info@amirdhs.com</a> ·
   <a href="https://github.com/amirdhs">GitHub</a> ·
-  <a href="https://linkedin.com/in/amirdhs">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/amir-dehestani">LinkedIn</a> ·
   <a href="https://amirdhs.com">Portfolio</a>
 </p>
 
