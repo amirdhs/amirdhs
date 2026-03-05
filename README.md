@@ -55,17 +55,3 @@ My strengths:
 - Integrates email, CRM, and database systems for full process automation
 
 ---
-
-## 🎓 Education
-
-**Software Engineering Bootcamp** · Masterschool, Berlin *(Sep 2024 – May 2025)*
-- 1600+ hours · Python, Flask, SQL, Docker, REST APIs, CI/CD, TDD
-
-**Intensive Self-Study** · *(Dec 2023 – Sep 2024)*
-- Relocated from Iran to Germany; deepened skills in FastAPI, LangChain, and modern AI stacks
-
----
-
-<p align="center">
-  [![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirdhs)](https://github.com/amirdhs/amirdhs)
-</p>
